@@ -14,7 +14,7 @@ layout: default
 
 ## 1. Who We Are
 
-Position: Leisure is operated by Steven Cantwell, based in Kansas, USA. Following our pending business entity formation, the service will be operated by AlgoAxiom LLC, a Kansas limited liability company. References to "we" in this policy refer to the operator of the service.
+Position: Leisure is operated by **AlgoAxiom LLC**, a Kansas limited liability company. References to "we," "us," and "our" in this policy refer to AlgoAxiom LLC.
 
 For privacy inquiries, contact **algoaxiom.steve@gmail.com**.
 
@@ -149,10 +149,11 @@ Continued use of the service after changes take effect constitutes acceptance of
 
 For privacy questions, data requests, or concerns, contact:
 
-**Steven Cantwell**
+**AlgoAxiom LLC**
+**Attn**: Steven Cantwell
 **Email**: algoaxiom.steve@gmail.com
 **Mailing Address**:
-Position: Leisure
+AlgoAxiom LLC
 4601 E. Douglas Ave., STE 150
 Wichita, KS 67218
 United States

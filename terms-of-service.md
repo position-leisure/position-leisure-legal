@@ -5,7 +5,7 @@ layout: default
 
 # Terms of Service
 
-**Position: Leisure** is an AI-powered job search and application tracking platform. By creating an account or using the service, you agree to these Terms of Service ("Terms"). If you do not agree, do not use the service.
+**Position: Leisure** is an AI-powered job search and application tracking platform operated by **AlgoAxiom LLC**, a Kansas limited liability company ("we," "us," "our"). By creating an account or using the service, you agree to these Terms of Service ("Terms"). If you do not agree, do not use the service.
 
 **Effective Date**: April 28, 2026
 **Last Updated**: April 28, 2026
@@ -180,17 +180,18 @@ If you do not agree to the updated Terms, you must stop using the service and ma
 - **Entire Agreement**: These Terms (together with the Privacy Policy) are the entire agreement between you and us regarding the service.
 - **Severability**: If any provision of these Terms is found unenforceable, the remaining provisions will remain in full force and effect.
 - **No Waiver**: Our failure to enforce any provision is not a waiver of our right to do so later.
-- **Assignment**: You may not assign or transfer these Terms without our consent. We may assign these Terms to a successor entity (such as upon formation of AlgoAxiom LLC or in connection with a merger, acquisition, or sale of assets).
+- **Assignment**: You may not assign or transfer these Terms without our consent. We may assign these Terms to a successor entity in connection with a merger, acquisition, or sale of assets.
 - **Headings**: Section headings are for convenience only and do not affect interpretation.
 
 ## 17. Contact
 
 For questions about these Terms, contact:
 
-**Steven Cantwell**
+**AlgoAxiom LLC**
+**Attn**: Steven Cantwell
 **Email**: algoaxiom.steve@gmail.com
 **Mailing Address**:
-Position: Leisure
+AlgoAxiom LLC
 4601 E. Douglas Ave., STE 150
 Wichita, KS 67218
 United States
