@@ -1,0 +1,16 @@
+title: "Position: Leisure — Legal"
+description: "Legal documents for Position: Leisure (AlgoAxiom LLC) — privacy policy, terms of service, and other compliance docs"
+theme: jekyll-theme-cayman
+
+# Markdown processor — kramdown handles the GFM dialect well
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Exclude repo metadata from the published site
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .gitignore
