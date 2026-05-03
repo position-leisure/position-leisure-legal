@@ -2,6 +2,15 @@ title: "Position: Leisure — Legal"
 description: "Legal documents for Position: Leisure (AlgoAxiom LLC) — privacy policy, terms of service, and other compliance docs"
 theme: jekyll-theme-cayman
 
+# Plugins. jekyll-redirect-from is auto-enabled by GitHub Pages, but list it
+# explicitly so the redirect_to: directives in privacy-policy.md, terms-of-
+# service.md, and index.md are obvious to anyone reading this config. The
+# Privacy + ToS canonical home migrated to positionleisure.com/privacy + /terms
+# on 2026-05-03 (per ADR-074 in the position-leisure project repo); these
+# redirects keep cached email links and bookmarks resolving.
+plugins:
+  - jekyll-redirect-from
+
 # Markdown processor — kramdown handles the GFM dialect well
 markdown: kramdown
 kramdown:

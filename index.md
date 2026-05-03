@@ -1,6 +1,7 @@
 ---
 title: Legal — Position: Leisure
 layout: default
+redirect_to: https://positionleisure.com/
 ---
 
 # Position: Leisure — Legal

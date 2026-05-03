@@ -1,6 +1,7 @@
 ---
 title: Terms of Service
 layout: default
+redirect_to: https://positionleisure.com/terms
 ---
 
 # Terms of Service

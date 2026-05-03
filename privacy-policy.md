@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 layout: default
+redirect_to: https://positionleisure.com/privacy
 ---
 
 # Privacy Policy
